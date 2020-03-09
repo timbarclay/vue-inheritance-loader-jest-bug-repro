@@ -1,5 +1,5 @@
 import {sortItems, sortNullableItems} from '@/utils/sort'
-//import TestComp from '@/components/TestComp'
+import TestComp from '@/components/TestComp'
 
 describe('Sort utility methods for strings', () => {
   it('sorts two strings naturally', () => {
